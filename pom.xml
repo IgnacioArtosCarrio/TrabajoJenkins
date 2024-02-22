@@ -23,7 +23,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.maven.main.MavenMain</mainClass>
+                            <mainClass>org.example</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
